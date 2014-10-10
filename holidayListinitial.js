@@ -14,7 +14,7 @@ select_namespace("dff.settings.d2t.holidaylist", function(namespace) {
 	};
 
 });
-/**
+
 select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 
 			namespace.init = function(app) {
@@ -28,6 +28,7 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 						data4[i][j] = new dataObj();
 					}
 				}
+				/**
 				var holidaylist = app.holidaylist = new clsDionGrid();
 				holidaylist.setParentDivElement($(".holigrid").get(0));
 				holidaylist.initialize(
