@@ -26,7 +26,7 @@ select_namespace(
 									"1 Jan 2013", "28 Jan 2013", "11 Mar 2013",
 									"29 Mar 2013" ]
 						},
-						"998" : {
+/**						"998" : {
 							"centerName" : "Abu Dhabi",
 							"isChecked" : "true",
 							"weekends" : [ "true", "true", "true", "true",
