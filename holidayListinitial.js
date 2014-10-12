@@ -28,11 +28,11 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 						data4[i][j] = new dataObj();
 					}
 				}
-				
+				/**
 				var holidaylist = app.holidaylist = new clsDionGrid();
 				holidaylist.setParentDivElement($(".holigrid").get(0));
 				holidaylist.initialize(
-				/**				"myholigrid",
+								"myholigrid",
 								{
 									rows : 20,
 									cols : 6,
