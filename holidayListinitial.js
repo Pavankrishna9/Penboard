@@ -28,7 +28,7 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 						data4[i][j] = new dataObj();
 					}
 				}
-				/**
+				
 				var holidaylist = app.holidaylist = new clsDionGrid();
 				holidaylist.setParentDivElement($(".holigrid").get(0));
 				holidaylist.initialize(
@@ -57,7 +57,7 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 									defaultGridDivStyle : "gridDiv "
 								});
 				app.set_title("HOLIDAY LIST");
-				
+				/**
 				function generateList(sortedList) {
 			 for ( var i=0;i<sortedList.length; i++) {
 						var $countryDiv = $('<div class="country first_li"></div>');
