@@ -626,28 +626,7 @@ select_namespace(
 					}
 					return $countryDiv;
 				}
-				$('.scrollable2').slimScroll({
-					height: '305px',
-					start: 'bottom',
-					opacity:'0.3',
-					position:'left',
-					color: 'white',
-					distance : '120px'
-					});
-				
-				var vendorMap = holidayListData.vendor;
-				var userMap = holidayListData.user;
-				
-				for ( var i = 0; i < centerList.length; i++) {
-					var centerId = centerList[i];
-					var isUser = vendorMap[centerId] == null;
-					var center = isUser ? userMap[centerId].centerName : vendorMap[centerId].centerName;
-					
-					var $countryDiv = createCenterDiv(center, centerId, isUser, visibleList);
-					$(".hd_list").append($countryDiv);
-				}
-			}
-		});
+			
 
 /*
  * var visibleList = userDefinedList['visibleCountries']; userSortedList =
