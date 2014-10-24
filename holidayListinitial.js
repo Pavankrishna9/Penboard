@@ -177,10 +177,7 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 									$countryDiv.insertAfter($obj);
 								
 								$countryDiv.mouseenter(function(event) {
-									var $week_list = $('<span class="open_list"></span>');
-									var $cross = $('<span class="cross" id="cross_ "  style="top:8px;"></span>');
-									
-									$cross.click(function(){
+																		$cross.click(function(){
 										//alert("Are you sure you want to delete the calendar?");
 										var parseName = $cross.parent().parent().html();
 										var name = parseName.split('<span');
