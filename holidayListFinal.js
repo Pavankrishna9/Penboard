@@ -15,9 +15,7 @@ select_namespace(
 				return {
 					"vendor" : {
 						"271" : {
-							"centerName" : "Adelaide",
-							"isChecked" : "false",
-							"weekends" : [ "false", "true", "true", "true",
+														"weekends" : [ "false", "true", "true", "true",
 									"true", "true", "false" ],
 							"eventDate" : [ "2 Jan 2012", "26 Jan 2012",
 									"12 Mar 2012", "6 Apr 2012", "7 Apr 2012",
