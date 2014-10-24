@@ -31,10 +31,7 @@ select_namespace(
 							"isChecked" : "true",
 							"weekends" : [ "true", "true", "true", "true",
 									"true", "false", "false" ],
-							"eventDate" : [ "1 Jan 2012", "4 Feb 2012",
-									"17 Jun 2012", "19 Aug 2012",
-									"20 Aug 2012", "21 Aug 2012", "28 Dec 2045" ]
-						}
+													}
 					},
 /**					"user" :{
 						"272" : {
