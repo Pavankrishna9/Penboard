@@ -33,9 +33,7 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 				holidaylist.initialize(
 								"myholigrid",
 								{
-									rows : 20,
-									cols : 6,
-									data : data4,
+									
 									showContextMenu : true,
 									showScrollBar : true,
 									isCustomContextMenu : true,
