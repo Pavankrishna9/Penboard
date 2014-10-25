@@ -22,8 +22,7 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 				var page = app.get_page();
 				var gridNo = app.holidaylist;
 				var data4= [];
-				for(var i=0;i<13;i++){
-										}
+				
 				
 				var holidaylist = app.holidaylist = new clsDionGrid();
 				holidaylist.setParentDivElement($(".holigrid").get(0));
