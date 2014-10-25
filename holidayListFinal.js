@@ -23,9 +23,7 @@ select_namespace(
 /**						"998" : {
 							"centerName" : "Abu Dhabi",
 							"isChecked" : "true",
-							"weekends" : [ "true", "true", "true", "true",
-									"true", "false", "false" ],
-													}
+						}
 					},
 /**					"user" :{
 						"272" : {
