@@ -20,11 +20,7 @@ select_namespace(
 									"9 Apr 2012", "25 Apr 2012", "11 Jun 2012",
 									 ]
 						},
-/**						"998" : {
-							"centerName" : "Abu Dhabi",
-							"isChecked" : "true",
-						}
-					},
+/**											},
 /**					"user" :{
 						"272" : {
 							"centerName" : "India",
