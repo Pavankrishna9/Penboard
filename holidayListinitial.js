@@ -317,8 +317,7 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 
 
 var dummyholidaylist = {
-		"lon":{	"centreid":"Abu Dhabi",
-									},
+	
 		"dubai":{"centreid":"Abu Dhabi",
 				 "holidays":["20120201","20120202","20120203","20120204","20120205","20120206","20120207","20120208"],
 				 "weekends":[0,0,0,0,0,1,1]
