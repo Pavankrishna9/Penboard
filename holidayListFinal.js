@@ -34,9 +34,7 @@ select_namespace(
 							"eventDate" : [ "2 Jan 2012", "26 Jan 2012",
 									"12 Mar 2012", "6 Apr 2012", "7 Apr 2012",
 									"9 Apr 2012", "25 Apr 2012", "11 Jun 2012",
-									"1 Oct 2012", "25 Dec 2012", "26 Dec 2012",
-									"1 Jan 2013", "28 Jan 2013", "11 Mar 2013",
-									"29 Mar 2013" ]
+																		"29 Mar 2013" ]
 						},
 						"999" : {
 							"centerName" : "Pakistan",
