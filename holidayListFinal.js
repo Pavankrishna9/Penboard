@@ -14,11 +14,7 @@ select_namespace(
 			namespace.getHolidayListData = function() {
 				return {
 					"vendor" : {
-						"271" : {
-																														"12 Mar 2012", "6 Apr 2012", "7 Apr 2012",
-																		 ]
-						},
-/**						"998" : {
+						/**						"998" : {
 							"centerName" : "Abu Dhabi",
 							"isChecked" : "true",
 						}
