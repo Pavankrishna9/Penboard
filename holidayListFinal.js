@@ -16,8 +16,7 @@ select_namespace(
 					"vendor" : {
 						"271" : {
 																														"12 Mar 2012", "6 Apr 2012", "7 Apr 2012",
-									"9 Apr 2012", "25 Apr 2012", "11 Jun 2012",
-									 ]
+																		 ]
 						},
 /**						"998" : {
 							"centerName" : "Abu Dhabi",
