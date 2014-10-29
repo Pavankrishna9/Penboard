@@ -65,8 +65,9 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 						var $ul = $('<ul id ="'+sortedList[i]+'" name = "_ul_'+i+' "class="week_list_select hd_shadow doNotHideOnClick"></ul>');
 						$countryDiv.append($fl, $flText, $ul);
 						$countryDiv[0].weeklyList = $ul;
-						$ul.append(weekList());
 						
+
+
 						$countryDiv.mouseenter(function(event) {
 									var $week_list = $('<span class="open_list"></span>');
 									var $cross = $('<span class="cross" id="cross_ "  style="top:8px;"></span>');
@@ -96,6 +97,9 @@ select_namespace("dff.settings.d2t.holidaylist",function(namespace) {
 										});
 										preventPropagation(event);
 									});
+
+
+
 								});
 						$countryDiv.mouseleave(function() {
 							this.hoverEvent.empty();
