@@ -14,9 +14,7 @@ select_namespace(
 			namespace.getHolidayListData = function() {
 				return {
 					"vendor" : {
-						/**						"998" : {
-							"centerName" : "Abu Dhabi",
-							"isChecked" : "true",
+													"isChecked" : "true",
 						}
 					},
 /**					"user" :{
