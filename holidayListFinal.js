@@ -13,10 +13,7 @@ select_namespace(
 
 			namespace.getHolidayListData = function() {
 				return {
-					"vendor" : {
-													"isChecked" : "true",
-						}
-					},
+				
 /**					"user" :{
 						"272" : {
 							"centerName" : "India",
